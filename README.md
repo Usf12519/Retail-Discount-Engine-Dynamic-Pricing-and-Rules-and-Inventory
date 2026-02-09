@@ -1,1 +1,1 @@
-# Retail-Discount-Engine-Dynamic-Pricing-and-Rules-and-Inventory
+# Retail Discount Engine: Dynamic Pricing and Rules and Inventory Cycling
